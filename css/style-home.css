@@ -355,7 +355,8 @@
         }
         
         .popular .all .feat {
-            width: 100%;
+            width: 90%;
+            margin: 0 auto 20px auto; 
             border: 1px solid #eee;
             margin-bottom: 70px;
         }
@@ -413,7 +414,8 @@
                 width: 100%;
             }
             .popular .all .feat {
-                width: 100%;
+                width: 90%;
+                margin: 0 auto 20px auto;
             }
             .popular h2 {
                 font-size: 30px;
@@ -501,7 +503,7 @@
         }
         
         .social .all .feat-2 img {
-            width: 100%;
+            width: 90%;
             border-radius: 5px;
             height: 280px;
         }
@@ -515,6 +517,7 @@
         .social .all .feat-1 h2+p {
             font-size: 15px;
             color: #ddd;
+            width: 90%;
             letter-spacing: 1px;
             line-height: 2;
             margin-top: 20px;
